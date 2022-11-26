@@ -2,7 +2,7 @@
 ## Algoritmo para Calculo do método de Newton Raphson
 ### Instalação
 #### Abir a pasta installer
-    Dentro da pasata abrir o terminal 
+    Dentro da pasta abrir o terminal 
         Executar o comando: 
             ~$ sudo chmod +x install.sh
         Executar o comando: 
@@ -13,5 +13,5 @@
             ~$ python3 Newton Raphson
 
 
-#### * Algoritmo em Execução
-    * Entradas permitidas
+### Algoritmo em Execução
+    Entradas permitidas
