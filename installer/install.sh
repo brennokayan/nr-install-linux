@@ -1,5 +1,5 @@
 cd ..
 sudo apt update
 sudo apt install python3
-python -m pip install
+sudo apt install python3-pip
 pip install sympy
