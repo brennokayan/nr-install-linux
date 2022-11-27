@@ -11,7 +11,7 @@
 ##### Voltar para a pasta nr-install-linux
 ###### Abrir o terminal 
 ###### Executar o comando:
-        ~$ python3 Newton Raphson
+        ~$ python3 Newton\ Raphson.py
 
 
 ### Algoritmo em Execução
