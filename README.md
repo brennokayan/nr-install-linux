@@ -2,8 +2,8 @@
 ## Algoritmo para Calculo do método de Newton Raphson
 ### Instalação
 #### Abir a pasta installer
-    Dentro da pasta abrir o terminal 
-    Executar o comando: 
+##### Dentro da pasta abrir o terminal 
+###### Executar o comando: 
 *********************************
         ~$ sudo chmod +x install.sh
 *********************************
