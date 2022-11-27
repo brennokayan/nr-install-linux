@@ -3,20 +3,15 @@
 ### Instalação
 #### Abir a pasta installer
     Dentro da pasta abrir o terminal 
-        Executar o comando: 
-*********************************
-            ~$ sudo chmod +x install.sh
-*********************************
-        Executar o comando: 
-*********************************
-            ~$ ./install.sh
-*********************************
+    Executar o comando: 
+        ~$ sudo chmod +x install.sh
+    Executar o comando: 
+        ~$ ./install.sh
     Voltar para a pasta nr-install-linux
-        Abrir o terminal 
-        Executar o comando:
-*********************************        
-            ~$ python3 Newton Raphson
-*********************************
+    Abrir o terminal 
+    Executar o comando:
+        ~$ python3 Newton Raphson
+
 
 ### Algoritmo em Execução
 #### Entradas permitidas
