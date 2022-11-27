@@ -13,7 +13,7 @@
 ###### Executar o comando:
         ~$ python3 Newton\ Raphson.py
 
-
+### Algoritmo em Execução
 #### Guia de utilização Newton-Raphson 
 *********************************
         Formas de entrada:
