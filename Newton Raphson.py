@@ -63,5 +63,6 @@ def MetodoNewthonRaphson():
     
 EntradaDeDados() #Chamando a função de entrada de dados
 MetodoNewthonRaphson() #Chamando a função de calculo do calculo em método de newthon Raphson
+MetodoNewthonRaphson() #Chamando a função de calculo do calculo em método de newthon Raphson
 input("press enter to exit") #Para que o exe do código não pare quando executado
 
