@@ -58,7 +58,7 @@ def MetodoNewthonRaphson():
 
     #Inicio do else para quando verificação de parada está satisfeita
     else:
-        print("rola")
+        print("fim das interações")
     ##Fim do else de verificação de parada
     
 EntradaDeDados() #Chamando a função de entrada de dados
